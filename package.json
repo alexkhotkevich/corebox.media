@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/alexkhotkevich/corebox.media#readme",
   "devDependencies": {
-    "firebase-tools": "^8.10.0"
+    "firebase-tools": "^8.10.0",
+    "webpack": "^4.44.1"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
   }
 }
